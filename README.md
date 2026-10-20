@@ -47,6 +47,7 @@ import ripple; importlib.reload(ripple); ripple.show()
 ---
 
 ## What works now
+ - Tested in Maya 2025.1 on the test scene: Load Selection loaded 16 followers, and Apply rippled all 16 objects.
 
 - The Ripple window opens inside Maya with every control laid out.
 - **Load Selection:** first selected object = driver, the rest = followers.
